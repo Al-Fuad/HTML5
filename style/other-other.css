@@ -1,0 +1,17 @@
+h3{
+    text-align: center;
+    margin-bottom: 15px;
+}
+article{
+    background-color: #fff;
+    border: 1px dotted darkorange;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10%;
+}
+.left h3{
+    text-align: left;
+}
+.right h3{
+    text-align: right;
+}

@@ -1,0 +1,19 @@
+footer{
+    background-color: rgb(246, 251, 184);
+    padding: 15px;
+}
+p{
+    text-align: center;
+    margin-top: 10px;
+}
+footer ul{
+    list-style: none;
+    display: flex;
+    margin: 0 10px;
+    /* text-align: center; */
+    justify-content: center;
+}
+footer li a{
+    text-decoration: none;
+    margin: 10px;
+}
